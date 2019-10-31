@@ -1,0 +1,11 @@
+C:\Users\Elev\source\repos\Övning3\Övning3\bin\Debug\netcoreapp3.0\Övning3.exe
+C:\Users\Elev\source\repos\Övning3\Övning3\bin\Debug\netcoreapp3.0\Övning3.deps.json
+C:\Users\Elev\source\repos\Övning3\Övning3\bin\Debug\netcoreapp3.0\Övning3.runtimeconfig.json
+C:\Users\Elev\source\repos\Övning3\Övning3\bin\Debug\netcoreapp3.0\Övning3.runtimeconfig.dev.json
+C:\Users\Elev\source\repos\Övning3\Övning3\bin\Debug\netcoreapp3.0\Övning3.dll
+C:\Users\Elev\source\repos\Övning3\Övning3\bin\Debug\netcoreapp3.0\Övning3.pdb
+C:\Users\Elev\source\repos\Övning3\Övning3\obj\Debug\netcoreapp3.0\Övning3.csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\Övning3\Övning3\obj\Debug\netcoreapp3.0\Övning3.AssemblyInfoInputs.cache
+C:\Users\Elev\source\repos\Övning3\Övning3\obj\Debug\netcoreapp3.0\Övning3.AssemblyInfo.cs
+C:\Users\Elev\source\repos\Övning3\Övning3\obj\Debug\netcoreapp3.0\Övning3.dll
+C:\Users\Elev\source\repos\Övning3\Övning3\obj\Debug\netcoreapp3.0\Övning3.pdb
