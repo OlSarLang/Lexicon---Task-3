@@ -30,5 +30,12 @@ namespace _2_Inheritance
         {
             return "Woff!";
         }
+
+        public  string DogM()
+        {
+            return "Woff!";
+        }
+
+
     }
 }

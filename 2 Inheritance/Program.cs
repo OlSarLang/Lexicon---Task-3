@@ -28,6 +28,15 @@ namespace _2_Inheritance
             foreach (var i in li)
             {
                 Console.WriteLine(i.Stats());
+                if(i is Dog dog3)
+                {
+                    var dog = (Dog)i;
+                    var dog2 = i as Dog;
+
+                    dog.DogM();
+                    dog2?.DogM();
+                    dog3.DogM();
+                }
                 //Q6 i.Speak() does not work as the parent class Animal does not have Speak()
             }
 

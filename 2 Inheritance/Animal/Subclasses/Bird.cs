@@ -5,7 +5,6 @@ using System.Text;
 namespace _2_Inheritance
 {
     //Q1 If all birds need a new property then it will have to be implemented in the base Bird.class.
-    //Q2 in the Animal.class
 
     class Bird : Animal
     {

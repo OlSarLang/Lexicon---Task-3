@@ -5,7 +5,7 @@ using System.Text;
 namespace _2_Inheritance
 {
 
-    
+    //Q2 in the Animal.class
     class Animal
     {
         //FIELDS
@@ -15,10 +15,7 @@ namespace _2_Inheritance
         //FIELDS END
 
         //CONSTRUCTORS
-        public Animal()
-        {
-
-        }
+       
         public Animal(string n = "Animal", double w = 0, int a = 0)
         {
             this.name = n;
@@ -30,7 +27,7 @@ namespace _2_Inheritance
         //PROPERTIES
         public string Name
         {
-            get { return name; }
+            get { return this.GetType().Name; }
             set { name = value; }
         }
         public double Weight

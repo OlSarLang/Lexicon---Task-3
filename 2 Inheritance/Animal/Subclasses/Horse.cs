@@ -22,10 +22,7 @@ namespace _2_Inheritance
 
         public override string Stats()
         {
-            return $"Name: {Name}\n" +
-                $"Weight: {Weight}\n" +
-                $"Age: {Age}\n" +
-                $"Legs: {Legs}\n";
+            return base.Stats() + $"Legs: {Legs}\n";
         }
 
     }

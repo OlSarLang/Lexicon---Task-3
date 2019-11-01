@@ -14,8 +14,9 @@ namespace Encapsulation
 
         public Person CreatePerson(int age, string fname, string iname, double height, double weight)
         {
-            persons.Add(new Person(age, fname, iname, height, weight));
-            return new Person(age, fname, iname, height, weight);
+            var p = new Person(age, fname, iname, height, weight);
+            persons.Add(p);
+            return p;
         }
 
         public void SetAge(Person pers, int val)

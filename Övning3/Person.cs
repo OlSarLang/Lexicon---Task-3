@@ -12,9 +12,7 @@ namespace Encapsulation
         private double height;
         private double weight;
 
-        public Person()
-        {
-        }
+      
 
         public Person(int age, string fName, string iName, double height, double weight)
         {
@@ -26,12 +24,7 @@ namespace Encapsulation
         }
 
 
-
-        //Q1 - Det går ej att direkt få tillgång av värdena om de är underordnade ett privat fält.
-        //private int Age2 {
-        //    public get { return Age2; }
-        //    public set { Age2 = value; } 
-        //}
+        //Q1 - It is possible for me to directly access the variables
 
         public int Age
         {

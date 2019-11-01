@@ -9,7 +9,7 @@ namespace Encapsulation
         {
             PersonHandler personHandler = new PersonHandler();
 
-            personHandler.CreatePerson(20, "Oliver", "Sarholm", 1.83, 83.0);
+           var kalle = personHandler.CreatePerson(20, "Oliver", "Sarholm", 1.83, 83.0);
             personHandler.SetAge(personHandler.GetList()[0], 22);
             Console.WriteLine($"{personHandler.GetList()[0].Age}");
         }
